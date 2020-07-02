@@ -1,0 +1,11 @@
+C:\Users\callm\source\repos\Search16s\Search16s\bin\Debug\netcoreapp3.0\Search16s.exe
+C:\Users\callm\source\repos\Search16s\Search16s\bin\Debug\netcoreapp3.0\Search16s.deps.json
+C:\Users\callm\source\repos\Search16s\Search16s\bin\Debug\netcoreapp3.0\Search16s.runtimeconfig.json
+C:\Users\callm\source\repos\Search16s\Search16s\bin\Debug\netcoreapp3.0\Search16s.runtimeconfig.dev.json
+C:\Users\callm\source\repos\Search16s\Search16s\bin\Debug\netcoreapp3.0\Search16s.dll
+C:\Users\callm\source\repos\Search16s\Search16s\bin\Debug\netcoreapp3.0\Search16s.pdb
+C:\Users\callm\source\repos\Search16s\Search16s\obj\Debug\netcoreapp3.0\Search16s.csprojAssemblyReference.cache
+C:\Users\callm\source\repos\Search16s\Search16s\obj\Debug\netcoreapp3.0\Search16s.AssemblyInfoInputs.cache
+C:\Users\callm\source\repos\Search16s\Search16s\obj\Debug\netcoreapp3.0\Search16s.AssemblyInfo.cs
+C:\Users\callm\source\repos\Search16s\Search16s\obj\Debug\netcoreapp3.0\Search16s.dll
+C:\Users\callm\source\repos\Search16s\Search16s\obj\Debug\netcoreapp3.0\Search16s.pdb
